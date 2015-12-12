@@ -6,9 +6,10 @@
 
 }
 p{opacity:1;}
+
 #out{
 	margin-top: 10px;
-	margin-bottom: 50px;
+	margin-bottom: 0px;
 }
 
 #cprincipal{
@@ -98,6 +99,7 @@ h2{
 #t2{
 	height:290px;
 	width: 70%;
+	
 	margin: 0 auto;
 	border: 1px solid transparent;
 	background-color: white;
@@ -169,26 +171,26 @@ opacity:.7;
     background-size: cover;
 }
 footer{
-	height: 370px;
+	height: 300px;
 	width: 100%;
 	border: 1px solid transparent;
 	background-color: #F5EFFB;
 }
 footer h2{
-	margin: 20px;
+	margin: 10px;
 }
 #contacto{
-	position: absolute;
-	width: 200px;
+	width: 100%;
 	height: 100px;
-	border: 1px solid black;
-	margin-left: 700px;
-	margin-top: -200px;
+	border: 1px solid transparent;
+	text-align: center;
+	background-color: #eee6c5;
+	padding-top: 20px;
 }
 #map{
 	
 	text-align: center;
 	width: 100%;
-	height:400px;
+	height:440px;
 	zoom: 50%;
 }
